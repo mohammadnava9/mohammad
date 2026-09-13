@@ -29,7 +29,7 @@ from telethon import TelegramClient, events
 # ====== تنظیمات ======
 api_id = 35263817          # <-- اینجا رو با api_id خودت جایگزین کن
 api_hash = "8f221cbae9e25cdafba56e897ed39b5e"  # <-- اینجا رو با api_hash خودت جایگزین کن
-session_name = "meow_session"
+session_name = "setare"
 default_interval_minutes = 10  # اگه زمان دستی داده نشه، این مقدار استفاده میشه
 
 # آیدی عددی حساب‌هایی که اجازه دارن از طریق پیوی، گپ رو فعال کنن
